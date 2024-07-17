@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Collection1" tests="4" time="1.083">
+  <testsuite name="MyFolder / UsersList" id="7dd33c22-3386-4461-91fb-e6aaa52937d7" timestamp="2024-07-17T12:58:21.151Z" tests="0" failures="0" errors="0" time="0.123"/>
+  <testsuite name="MyFolder / CreateUser" id="2967af17-d8f6-484c-b766-fb97a0997705" timestamp="2024-07-17T12:58:21.151Z" tests="1" failures="0" errors="0" time="0.314">
+    <testcase name="Status code is 201" time="0.314" classname="Collection1"/>
+  </testsuite>
+  <testsuite name="UpdateUserJob" id="19cdb979-5730-4848-a789-3da3d0d5110d" timestamp="2024-07-17T12:58:21.151Z" tests="0" failures="0" errors="0" time="0.322"/>
+  <testsuite name="DeleteUser" id="f3824e5c-f82e-48b5-82eb-e86ac7d4bda6" timestamp="2024-07-17T12:58:21.151Z" tests="0" failures="0" errors="0" time="0.324"/>
+</testsuites>
